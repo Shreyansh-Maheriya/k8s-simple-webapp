@@ -1,0 +1,13 @@
+# Kubernetes
+**/*.tmp
+**/*.bak
+
+# Local development
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sensitive data
+**/secrets.yaml
+**/*.env
